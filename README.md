@@ -1,15 +1,5 @@
 AI Recommendation Logic System
 
-Project Information
-
-Project Name: AI Recommendation Logic System
-
-Internship Program: DecodeLabs Industrial Training Kit 2026
-
-Project Number: Project 3
-
-Domain: Artificial Intelligence
-
 Project Description
 
 The AI Recommendation Logic System is a simple recommendation engine that suggests courses based on user interests. The system uses similarity-based matching to compare user preferences with predefined course categories and generates personalized recommendations with match scores.
